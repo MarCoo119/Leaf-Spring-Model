@@ -41,3 +41,4 @@ Parametric sketching and assembly modeling tools
 
 ## Model View
 
+<img width="1315" height="736" alt="Snapshot of the dashboard" src="https://github.com/MarCoo119/NX_MiniDualSteamEngine/blob/main/Screenshot%202026-01-05%20092456.png" />

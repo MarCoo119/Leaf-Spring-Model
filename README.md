@@ -41,9 +41,7 @@ This repository contains a parametric leaf spring CAD model representing a suspe
 
 ## 🖼️ Model View
 
-<p align="center">
-  <img src="[images/leaf_spring_preview.png](https://github.com/MarCoo119/Leaf-Spring-Model/blob/main/Screenshot%202026-01-05%20094126.png)" width="700"/>
-</p>
+<img width="1315" height="736" alt="Snapshot of the dashboard" src="https://github.com/MarCoo119/Leaf-Spring-Model/blob/main/Screenshot%202026-01-05%20094126.png">
 
 
 ---
